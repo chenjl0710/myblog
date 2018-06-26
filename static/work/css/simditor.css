@@ -146,6 +146,8 @@
 .simditor {
   position: relative;
   border: 1px solid #c9d8db;
+  margin-left: 170px;
+  margin-right: 200px;
 }
 .simditor .simditor-wrapper {
   position: relative;
